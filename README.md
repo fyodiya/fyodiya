@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fyodiya
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Scala.
+- 🌱 I’m currently learning Java and Python - and trying not to forget Scala.
 - 📫 How to reach me: fyodiya@gmail.com 
 
 <!---
